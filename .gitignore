@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Power BI Auto Recovery
+*.pbix.autosave
+
+# Logs
+*.log
